@@ -1,7 +1,3 @@
-# monitoramento-azure
-Meus aprendizados sobre monitoramento de VMs no Azure, reunidos como parte do desafio da trilha AZ-104.
-
-
 # 📊 Monitoramento de Máquinas Virtuais no Azure
 
 Este repositório faz parte do desafio proposto na trilha AZ-104 da DIO. Aqui compartilho meus aprendizados sobre como configurar e gerenciar o monitoramento de recursos no Microsoft Azure, com foco em máquinas virtuais (VMs).
@@ -30,7 +26,7 @@ Este repositório faz parte do desafio proposto na trilha AZ-104 da DIO. Aqui co
 
 ## 💡 Dicas Pessoais
 
-- **Sempre configure alertas** para monitorar o estado da VM e evitar surpresas com falhas.
+- **Sempre configure alertas** para monitorar o estado da VM e evitar surpresas com falhas. Vale lembrar que existe um pequeno custo para regras criadas.
 - Use o **Auto-shutdown** junto com alertas para VMs de teste, economizando recursos.
 - Vincule suas VMs ao **Log Analytics** mesmo que não use no momento — isso permite análises históricas quando necessário.
 - Explore o **Azure Workbooks** para criar relatórios visuais com dados do Azure Monitor.
