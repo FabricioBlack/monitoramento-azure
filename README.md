@@ -51,7 +51,8 @@ Você pode criar uma pasta `/imagens` com prints como:
 
 ## 👨‍💻 Sobre mim
 
-Meu nome é Fabrício e este repositório é parte da minha jornada rumo à certificação AZ-104. Gosto de compartilhar conhecimento e acredito que aprender ensinando é uma das formas mais eficazes de evolução técnica. 🚀
+Meu nome é Fabrício Santana e este repositório é parte da minha jornada rumo à certificação AZ-104. 
+Gosto de compartilhar conhecimento e acredito que aprender ensinando é uma das formas mais eficazes de evolução técnica. 🚀
 
 ---
 
